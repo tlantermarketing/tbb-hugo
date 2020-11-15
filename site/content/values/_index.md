@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/the-bolder-brew-header.jpg
+image: /img/home-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
