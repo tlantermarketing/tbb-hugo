@@ -1,8 +1,9 @@
 :root {
 	/* Colors */
-	--primary: rgba(255, 68, 0, 1);
+	/*--primary: rgba(255, 68, 0, 1);*/
+	--primary: rgba(82, 67, 54, 0.8);
 	/*--highlight: rgba(254, 213, 198, 1);*/
-	--highlight: rgba(82,67,54, 0.8);
+	--highlight: rgba(168, 161, 154, 0.8);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
 	--grey-1: rgba(245, 243, 242, 1);
