@@ -9,7 +9,7 @@
 					{{ .Render "li" }}
 				</div>
 				<div class="ph1-ns w-50-ns flex">
-					{{ .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+					<img src="{{ with .Params.image }}{{ . }}{{ end }}" />
 				</div>
 			{{ end }}
 		</div>
