@@ -1,6 +1,7 @@
 ---
 title: 4 Clever AeroPress Accessories You’ll Love
 date: 2020-11-16T02:44:02.644Z
+slug: best-aeropress-accessories
 description: >
   The AeroPress is terrific on its own, and the right accessories make it even
   more versatile. Here are some must-try accessories for any AeroPress
