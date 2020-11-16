@@ -4,7 +4,7 @@ languageLang = "en"
 title = "Specialty Coffee Brewing, Home Roasting & More"
 
 [permalinks]
-  posts = "/:title/"
+  posts = "/:slug/"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
