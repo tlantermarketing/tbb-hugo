@@ -100,6 +100,6 @@ Like I said just above, many places even let you do this without special food se
 There may be rules on annual sales, or restrictions on roasting equipment size, but hobbyist roasters are not likely to be a problem.
 
 So read up on the law, stock up on green coffee, then get that side hustle off the ground!
----
+___
 **P.S.** I learned a lot by roasting on air and stovetop popcorn poppers. But my roasting went to the next level when I upgraded to a Fresh Roast SR800. It’s my go-to recommendation for beginning to intermediate home roasters. Find out why in my full review [here](https://thebolderbrew.com/fresh-roast-sr800-review).
 
