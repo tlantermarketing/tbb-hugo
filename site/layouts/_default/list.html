@@ -6,7 +6,7 @@
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
 
-          <div class="w-50 ph1-ns flex">
+          <div class="w-50 ph1-ns flex-auto">
             <img src="{{.Params.Image | absURL }}" alt="post-thumb">
           </div>
     
