@@ -8,7 +8,7 @@
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
-          <div><img src="{{.Params.Image | absURL }}" alt="post-thumb"></div>
+          <div class="w-50-ns ph1-ns flex"><img src="{{.Params.Image | absURL }}" alt="post-thumb"></div>
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
