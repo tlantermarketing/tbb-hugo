@@ -5,10 +5,14 @@
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+          
+          <div class="w-33-ns ph1-ns flex">
+            <img src="{{.Params.Image | absURL }}" alt="post-thumb">
+          </div>
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
-          <div class="w-50-ns ph1-ns flex"><img src="{{.Params.Image | absURL }}" alt="post-thumb"></div>
+          
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
