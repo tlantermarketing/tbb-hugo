@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest Articles") }}
 
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
@@ -8,6 +8,7 @@
           <div class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
+          <div><img src="{{.Params.Image | absURL }}" alt="post-thumb"></div>
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
