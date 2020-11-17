@@ -6,14 +6,12 @@
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
 
-          <div style="outline:1px solid rgba(82, 67, 54, .8)">
-              <div class="w-50-ns ph1-ns flex-auto">
-                <img src="{{.Params.Image | absURL }}" alt="post-thumb">
-              </div>
+          <div class="w-50-ns ph1-ns flex-auto">
+            <img src="{{.Params.Image | absURL }}" alt="post-thumb">
+          </div>
 
-              <div class="w-50-ns ph1-ns flex">
-                {{ .Render "li"}}
-              </div>
+          <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
           </div>
           
       {{ end }}
