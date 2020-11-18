@@ -1,2 +1,4 @@
 languageCode = "en-us"
 title = "The Bolder Brew"
+[permalinks]
+  posts = "/:slug"
