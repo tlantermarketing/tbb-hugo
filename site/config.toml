@@ -8,4 +8,4 @@ title = " The Bolder Brew"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [permalinks]
-  posts = "/:slug/"
+  posts = "/:slug"
