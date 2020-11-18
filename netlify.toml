@@ -8,9 +8,3 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
-
-[[redirects]]
-  from = "https://thebolderbrew.com/recommends/fellow-stagg-ekg"
-  to = "https://google.com"
-  status = 307
-  force = true
