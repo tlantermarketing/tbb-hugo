@@ -8,3 +8,7 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "https://thebolderbrew.com/recommends/fellow-stagg-ekg"
+  to = "https://fellowproducts.com/products/staggekg?rfsn=4717192.b9efad&utm_source=refersion&utm_medium=affiliate&utm_campaign=4717192.b9efad"
