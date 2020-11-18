@@ -6,6 +6,7 @@
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
 
+          <!-- TO DO: turn image into link to page for easier navigation -->
           <div class="w-50-ns ph1-ns flex-auto">
             <img src="{{.Params.Image | absURL }}" alt="post-thumb">
           </div>
