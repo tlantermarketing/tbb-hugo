@@ -6,7 +6,7 @@ description: Home coffee roasting might seem intimidating, but there are lots of
   myths and misconceptions. We'll address 7 of them in here.
 image: img/commercial-coffee-roaster.jpg
 ---
-Sooner or later, everyone who’s into [coffee](/search) starts to think, “Maybe I could roast my own…”
+Sooner or later, everyone who’s into coffee starts to think, “Maybe I could roast my own…”
 
 But few actually give it a go. It can seem daunting or expensive or dangerous or just plain difficult.
 
