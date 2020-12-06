@@ -6,7 +6,7 @@ description: Home coffee roasting might seem intimidating, but there are lots of
   myths and misconceptions. We'll address 7 of them in here.
 image: img/commercial-coffee-roaster.jpg
 ---
-Sooner or later, everyone who’s into coffee starts to think, “Maybe I could roast my own…”
+Sooner or later, everyone who’s into [coffee](thebolderbrew.netlify.app/search) starts to think, “Maybe I could roast my own…”
 
 But few actually give it a go. It can seem daunting or expensive or dangerous or just plain difficult.
 
@@ -17,6 +17,7 @@ But mystery leads to myths, and those are exactly what we’re going to dispel t
 Here are seven of the most common misunderstandings that keep home roasters from getting started.
 
 ## Myth: It Takes Lots Of Equipment
+
 Reality: You can start with what’s already in your kitchen. 
 
 Historically, people roasted coffee in some sort of iron pot over an open fire. From the Wild West to the modern Ethiopian countryside, that’s been the norm whenever dedicated equipment wasn’t available.
@@ -30,6 +31,7 @@ By the way, you might wonder about roasting coffee in the oven. It’s certainly
 Beans need to move constantly as they roast, and that’s nearly impossible in the oven but quite easy in a skillet or wok.
 
 ## Myth: It’s Expensive
+
 Reality: Dedicated roasting equipment is surprisingly affordable.
 
 While a skillet is free, it’s not ideal in the long run. Once you know that home roasting is for you, it’s time to look for something more sophisticated.
@@ -43,6 +45,7 @@ And most importantly, I learned a ton about roasting and ended up with heaps of 
 Incidentally, the green beans themselves are inexpensive if you choose a good source (more on that below). Plan on something like $5-$8/lb shipped, depending on the quantity. 
 
 ## Myth: It’s Really Hard
+
 Reality: It’s no harder than most other kitchen skills.
 
 Before coffee shops and roasting became an industry, it was a standard kitchen skill. And just like everything else people have traditionally done at home, it’s not rocket science.
@@ -52,6 +55,7 @@ In fact, some home roasting machines are so easy that they practically take all 
 But the point is that you don’t need any special training (let alone talent) to create an endless supply of fresh beans.
 
 ## Myth: It Won’t Taste That Good
+
 Reality: In capable hands, home-roasted coffee is as good as it gets.
 
 As mentioned above, roasting isn’t very difficult. But the cool part is that roasting a great batch isn’t really harder than roasting a mediocre one.
@@ -67,6 +71,7 @@ Not to toot my own horn, but after consistent practice, I’d consider my own co
 And that’s as boastful as it sounds, since thousands of home-roasting hobbyists are far better yet!
 
 ## Myth: Green Coffee Is Tough To Find
+
 Reality: It takes 5 minutes to order green coffee from any corner of the world.
 
 Grocery stores rarely if ever sell green coffee beans, so where on earth do you get it?
@@ -80,6 +85,7 @@ By the way, it makes sense that groceries only stock roasted coffee, since few p
 But back in the day, roasted coffee was a bit rare and expensive, so you could in fact stroll down to the corner store for a bag of green beans. In less developed coffee-producing countries, you can even do this today.
 
 ## Myth: You Need A Permit
+
 Reality: Odds are you’re already free to roast all you want for personal use.
 
 I can’t speak to your local laws, of course, but few if any places require a permit.
@@ -89,6 +95,7 @@ Assuming you’re roasting coffee for personal consumption, it doesn’t require
 And in many jurisdictions, like my own state of Washington, you can even roast small amounts for sale without any sort of legal restrictions. Speaking of which…
 
 ## Myth: You Can’t Make Money
+
 Reality: It won’t make you a millionaire, but home roasting can be a great side business.
 
 Nothing is better than a hobby that pays for itself.
@@ -100,6 +107,7 @@ Like I said just above, many places even let you do this without special food se
 There may be rules on annual sales, or restrictions on roasting equipment size, but hobbyist roasters are not likely to be a problem.
 
 So read up on the law, stock up on green coffee, then get that side hustle off the ground!
-___
-**P.S.** I learned a lot by roasting on air and stovetop popcorn poppers. But my roasting went to the next level when I upgraded to a Fresh Roast SR800. It’s my go-to recommendation for beginning to intermediate home roasters. Find out why in my full review [here](https://thebolderbrew.com/fresh-roast-sr800-review).
 
+- - -
+
+**P.S.** I learned a lot by roasting on air and stovetop popcorn poppers. But my roasting went to the next level when I upgraded to a Fresh Roast SR800. It’s my go-to recommendation for beginning to intermediate home roasters. Find out why in my full review [here](https://thebolderbrew.com/fresh-roast-sr800-review).
