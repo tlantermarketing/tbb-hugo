@@ -8,3 +8,7 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[redirects]]
+  from = "/search"
+  to = "https://google.com"
