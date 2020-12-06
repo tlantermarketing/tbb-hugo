@@ -1,1 +1,1 @@
-https://thebolderbrew.netlify.app/        https://google.com
+/search        https://google.com
