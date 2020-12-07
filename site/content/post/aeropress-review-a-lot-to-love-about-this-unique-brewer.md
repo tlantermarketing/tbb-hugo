@@ -2,27 +2,29 @@
 title: "AeroPress Review: A Lot To Love About This Unique Brewer"
 slug: aeropress-review
 date: 2020-12-06T23:22:16.760Z
-description: The AeroPress makes it easy to brew great coffee consistently. Of
-  course it’s not the only way, but for most people, it’s the simplest. Read on
-  to see whether it's for you.
+description: >-
+  True or false: making great coffee at home requires either a finicky pour-over
+  coffee set-up or a fancy, expensive automatic brewer?
+
+
+  For most people most of the time, the answer is **false**. 
+
+
+  That’s good news if you’re just getting into brewing coffee at home, or you’ve struggled to get consistent pour-overs, or your cheap-o coffee maker never does justice to good coffee.
+
+
+  I’m going to share how the AeroPress addresses all that in one fell swoop. As a bonus, it also means you’ll never be stuck with hotel or office coffee again.
+
+
+  **Verdict: highly recommended. The AeroPress makes it easy to brew great coffee consistently. Of course it’s not the only way, but for most people, it’s the simplest. It shines in terms of brewing versatility, travel-friendliness, and overall ease of use. Just remember that it’s best for 1-2 servings, and it cannot make true espresso.**
+
+
+  It’s a bit of a quirky device. In fact, it’s literally the only brewer of its type, which makes for some unique pros and cons. 
+
+
+  Below is my detailed take on what they are, how best to use it, and who’ll like it best.
 image: img/aeropress-inverted-rotated.jpg
 ---
-
-
-True or false: making great coffee at home requires either a finicky pour-over coffee set-up or a fancy, expensive automatic brewer?
-
-For most people most of the time, the answer is **false**. 
-
-That’s good news if you’re just getting into brewing coffee at home, or you’ve struggled to get consistent pour-overs, or your cheap-o coffee maker never does justice to good coffee.
-
-I’m going to share how the AeroPress addresses all that in one fell swoop. As a bonus, it also means you’ll never be stuck with hotel or office coffee again.
-
-**Verdict: highly recommended. The AeroPress makes it easy to brew great coffee consistently. Of course it’s not the only way, but for most people, it’s the simplest. It shines in terms of brewing versatility, travel-friendliness, and overall ease of use. Just remember that it’s best for 1-2 servings, and it cannot make true espresso.**
-
-It’s a bit of a quirky device. In fact, it’s literally the only brewer of its type, which makes for some unique pros and cons. 
-
-Below is my detailed take on what they are, how best to use it, and who’ll like it best.
-
 ## What Does The AeroPress Do Best?
 
 ### It’s incredibly convenient
