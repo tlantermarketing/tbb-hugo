@@ -10,6 +10,9 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+        <aside>
+          {{ .TableOfContents }}
+        </aside>
     </div>
   </div>
 {{ end }}
