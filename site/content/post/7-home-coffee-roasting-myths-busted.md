@@ -2,20 +2,23 @@
 title: 7 Home Coffee Roasting Myths Busted
 slug: home-coffee-roasting-myths-busted
 date: 2020-11-16T03:22:49.380Z
-description: Home coffee roasting might seem intimidating, but there are lots of
-  myths and misconceptions. We'll address 7 of them in here.
+description: >-
+  Sooner or later, everyone who’s into coffee starts to think, “Maybe I could
+  roast my own…”
+
+
+  But few actually give it a go. It can seem daunting or expensive or dangerous or just plain difficult.
+
+
+  It’s easy to understand why. We rarely see the roasting process at a coffee shop, so it all remains a little mysterious.
+
+
+  But mystery leads to myths, and those are exactly what we’re going to dispel today.
+
+
+  Here are seven of the most common misunderstandings that keep home roasters from getting started.
 image: img/commercial-coffee-roaster.jpg
 ---
-Sooner or later, everyone who’s into coffee starts to think, “Maybe I could roast my own…”
-
-But few actually give it a go. It can seem daunting or expensive or dangerous or just plain difficult.
-
-It’s easy to understand why. We rarely see the roasting process at a coffee shop, so it all remains a little mysterious.
-
-But mystery leads to myths, and those are exactly what we’re going to dispel today.
-
-Here are seven of the most common misunderstandings that keep home roasters from getting started.
-
 ## Myth: It Takes Lots Of Equipment
 
 Reality: You can start with what’s already in your kitchen. 
