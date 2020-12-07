@@ -2,23 +2,25 @@
 title: How To Roast Better Coffee At Home (9 Must-Try Tips For Beginners)
 slug: roast-better-coffee-at-home
 date: 2020-12-06T23:49:51.355Z
-description: Struggling to get consistently good roasts? After ruining my fair
-  share, here are some hard-earned (and totally beginner-friendly) tips to try
-  today.
+description: >-
+  Who doesn’t love having plenty of fresh-roasted coffee on hand?
+
+
+  Even better is when it’s your own handiwork.
+
+
+  Home coffee roasting is a fun and approachable hobby. It’s free or cheap to start, and can be extremely cost-effective in the long run.
+
+
+  Think of it as a craft. You can make *something* right away, then with observation and practice, you can make something *excellent*.
+
+
+  But if you’re new to home coffee roasting, then what exactly should you be observing and practicing?
+
+
+  Here are my top nine tips to roast better coffee, sooner.
 image: img/home-coffee-roaster.jpg
 ---
-Who doesn’t love having plenty of fresh-roasted coffee on hand?
-
-Even better is when it’s your own handiwork.
-
-Home coffee roasting is a fun and approachable hobby. It’s free or cheap to start, and can be extremely cost-effective in the long run.
-
-Think of it as a craft. You can make *something* right away, then with observation and practice, you can make something *excellent*.
-
-But if you’re new to home coffee roasting, then what exactly should you be observing and practicing?
-
-Here are my top nine tips to roast better coffee, sooner.
-
 ## Keep a roast log
 
 The coffee you drink is the sum of many little decisions by you, the roaster.
