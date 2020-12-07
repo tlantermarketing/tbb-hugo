@@ -3,33 +3,40 @@ title: "Lifeboost Medium-Roast Coffee Review: Is This Delicious Low-Acid Coffee
   Worth The Price?"
 slug: lifeboost-medium-roast-coffee-review
 date: 2020-12-07T00:33:12.053Z
-description: "**Lifeboost** is a relatively visible online coffee brand, with a
-  high price tag and some unusual health claims. But above all, is the coffee
-  any good?"
+description: >-
+  Coffee may be the healthiest part of your diet.
+
+
+  With how much I consume, that’s great news.
+
+
+  Almost no caloric value, yet chock-full of [antioxidants](https://www.healthline.com/nutrition/coffee-worlds-biggest-source-of-antioxidants) and associated with [lower risks](https://www.healthline.com/nutrition/6-graphs-that-convince-you-to-drink-more-coffee#TOC_TITLE_HDR_2) of some horrifying diseases.
+
+
+  Now, loading yours up with creamer and sweetener is another story. 
+
+
+  But reasonable amounts of pure, black coffee will almost certainly leave you better off.
+
+
+  So when brands like Lifeboost Coffee say they’ve produced the purest and highest-quality coffee possible, *and* that it tastes great, I’m all ears.
+
+
+  My medium-roast was delicious coffee indeed. It’s also expensive, even by specialty coffee standards.
+
+
+  So, the biggest question: is it actually worth it?
+
+
+  Here are my thoughts after working through a bag via several brewing methods.
+
+
+  *Note: I’m reviewing this from a coffee fan’s perspective. Everything about Lifeboost--from branding to website text to aggressive upsells--suggests they’re targeting health-conscious folks who enjoy coffee but **don’t** consider themselves connoisseurs.* 
+
+
+  *If my take seems cynical, then keep in mind I’m not quite in their target market, and I sit on the skeptical side of most health-related marketing messages in the first place.*
 image: img/IMG_20200910_151249955-rotated.jpg
 ---
-Coffee may be the healthiest part of your diet.
-
-With how much I consume, that’s great news.
-
-Almost no caloric value, yet chock-full of [antioxidants](https://www.healthline.com/nutrition/coffee-worlds-biggest-source-of-antioxidants) and associated with [lower risks](https://www.healthline.com/nutrition/6-graphs-that-convince-you-to-drink-more-coffee#TOC_TITLE_HDR_2) of some horrifying diseases.
-
-Now, loading yours up with creamer and sweetener is another story. 
-
-But reasonable amounts of pure, black coffee will almost certainly leave you better off.
-
-So when brands like Lifeboost Coffee say they’ve produced the purest and highest-quality coffee possible, *and* that it tastes great, I’m all ears.
-
-My medium-roast was delicious coffee indeed. It’s also expensive, even by specialty coffee standards.
-
-So, the biggest question: is it actually worth it?
-
-Here are my thoughts after working through a bag via several brewing methods.
-
-*Note: I’m reviewing this from a coffee fan’s perspective. Everything about Lifeboost--from branding to website text to aggressive upsells--suggests they’re targeting health-conscious folks who enjoy coffee but **don’t** consider themselves connoisseurs.* 
-
-*If my take seems cynical, then keep in mind I’m not quite in their target market, and I sit on the skeptical side of most health-related marketing messages in the first place.*
-
 ## What’s The Deal With Lifeboost Coffee?
 
 I stand by the claim that pure, black coffee leaves us better off.
