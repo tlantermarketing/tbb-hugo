@@ -3,9 +3,9 @@ title: "Lifeboost Medium-Roast Coffee Review: Is This Delicious Low-Acid Coffee
   Worth The Price?"
 slug: lifeboost-medium-roast-coffee-review
 date: 2020-12-07T00:33:12.053Z
-description: Lifeboost is a relatively visible online coffee brand, with a high
-  price tag and some unusual health claims. But above all, is the coffee any
-  good?
+description: "**Lifeboost** is a relatively visible online coffee brand, with a
+  high price tag and some unusual health claims. But above all, is the coffee
+  any good?"
 image: img/IMG_20200910_151249955-rotated.jpg
 ---
 Coffee may be the healthiest part of your diet.
