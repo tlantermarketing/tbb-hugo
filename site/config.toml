@@ -9,4 +9,3 @@ title = " The Bolder Brew"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [permalinks]
   post = "/:slug"
-summaryLength = "10"
