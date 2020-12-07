@@ -2,26 +2,32 @@
 title: 7 Steps To Great Pour-Over Coffee (The Beginner’s Guide)
 slug: how-brew-pour-over-coffee-beginners
 date: 2020-12-06T23:06:08.040Z
-description: With a little practice, pour over coffee is consistently delicious.
-  Here's how to start brewing amazing cups today.
+description: >-
+  Brewing coffee looks so darn *easy* at your local hipster café, doesn’t it?
+
+
+  Just grind a bit, pour a bit, wait a bit…and there you are. A fresh, complex cup of coffee from some exotic origin you’ve never even heard of.
+
+
+  So, naturally enough, you want to save the $5 a cup and create that amazing brew at home.
+
+
+  You’re in luck, because it’s a lot easier to do than you might think.
+
+
+  By the end of this article, you’ll know:
+
+
+  * What equipment you need
+
+  * How to use it
+
+  * What to do when it doesn’t taste quite right
+
+
+  And read on through, since I’ll share my favorite way to find new coffees. (Just make sure you’ve got this brewing process down, first!)
 image: img/hario-v60-pour-over-coffee.jpg
 ---
-Brewing coffee looks so darn *easy* at your local hipster café, doesn’t it?
-
-Just grind a bit, pour a bit, wait a bit…and there you are. A fresh, complex cup of coffee from some exotic origin you’ve never even heard of.
-
-So, naturally enough, you want to save the $5 a cup and create that amazing brew at home.
-
-You’re in luck, because it’s a lot easier to do than you might think.
-
-By the end of this article, you’ll know:
-
-* What equipment you need
-* How to use it
-* What to do when it doesn’t taste quite right
-
-And read on through, since I’ll share my favorite way to find new coffees. (Just make sure you’ve got this brewing process down, first!)
-
 ## Get Fresh Beans
 
 This probably goes without saying, but stale coffee tastes bad. 
