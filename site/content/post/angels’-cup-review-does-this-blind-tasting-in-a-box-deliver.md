@@ -2,40 +2,51 @@
 title: "Angels’ Cup Review: Does This Blind Tasting-In-A-Box Deliver?"
 slug: angels-cup-review
 date: 2020-12-06T23:30:05.886Z
-description: Angel's Cup is my favorite way to discover interesting and
-  high-quality coffees. The blind tasting experience is fun, too. But is it
-  worth the price?
+description: >-
+  The best way to enjoy coffee more is to enjoy more coffee.
+
+
+  What do I mean by that? 
+
+
+  Just like good wine, good coffee contains more flavors than perhaps any single person could pick out. 
+
+
+  There are hit-you-over-the-head obvious flavors, like the chocolates or nutty ones. Then there are subtler flavors like specific berries and specific types of acidity (think citrus vs. apple).
+
+
+  The point is that the more *high-quality* coffees you sample, the better you get at finding all the unique differences that make this beverage so interesting. **Blind tastings are especially helpful** since they keep you from imagining tastes that labels or packages might anchor in your mind. (Those nefarious geniuses of coffee marketing!)
+
+
+  We’re also smack dab in a specialty coffee boom. At least here in the US, there are scores of excellent specialty roasters. But, for every well-known roaster like Stumptown or Blue Bottle or Counter Culture, there are probably a dozen more that remain nearly unknown outside their hometowns.
+
+
+  As coffee enthusiasts, that means we’re missing out on a lot of great brews.
+
+
+  Angels’ Cup makes it fun and easy to get lots of interesting variety from lots of unfamiliar (but great) roasters. Everything from the pricing model to the packaging to the app is made with blind tasting in mind.
+
+
+  Plus, who doesn’t like looking forward to something in the mail?
+
+
+  Here’s what each box contains:
+
+
+  * Four samples, all roasted either light, medium, or dark (no mixing), in a coded but unlabeled packet
+
+  * Coded notecards with bean info, roaster info, etc. to check after tasting
+
+
+  I’ve personally tried a couple different Angels’ Cup boxes for several months. In short, it’s well done, and a thoroughly fun subscription. 
+
+
+  But it’s not flawless and it’s not ideal for everyone.
+
+
+  Here’s what I love and don’t love about their subscription, plus some thoughts on how to get the most out of it.
 image: img/angels-cup-samples.jpg
 ---
-The best way to enjoy coffee more is to enjoy more coffee.
-
-What do I mean by that? 
-
-Just like good wine, good coffee contains more flavors than perhaps any single person could pick out. 
-
-There are hit-you-over-the-head obvious flavors, like the chocolates or nutty ones. Then there are subtler flavors like specific berries and specific types of acidity (think citrus vs. apple).
-
-The point is that the more *high-quality* coffees you sample, the better you get at finding all the unique differences that make this beverage so interesting. **Blind tastings are especially helpful** since they keep you from imagining tastes that labels or packages might anchor in your mind. (Those nefarious geniuses of coffee marketing!)
-
-We’re also smack dab in a specialty coffee boom. At least here in the US, there are scores of excellent specialty roasters. But, for every well-known roaster like Stumptown or Blue Bottle or Counter Culture, there are probably a dozen more that remain nearly unknown outside their hometowns.
-
-As coffee enthusiasts, that means we’re missing out on a lot of great brews.
-
-Angels’ Cup makes it fun and easy to get lots of interesting variety from lots of unfamiliar (but great) roasters. Everything from the pricing model to the packaging to the app is made with blind tasting in mind.
-
-Plus, who doesn’t like looking forward to something in the mail?
-
-Here’s what each box contains:
-
-* Four samples, all roasted either light, medium, or dark (no mixing), in a coded but unlabeled packet
-* Coded notecards with bean info, roaster info, etc. to check after tasting
-
-I’ve personally tried a couple different Angels’ Cup boxes for several months. In short, it’s well done, and a thoroughly fun subscription. 
-
-But it’s not flawless and it’s not ideal for everyone.
-
-Here’s what I love and don’t love about their subscription, plus some thoughts on how to get the most out of it.
-
 ## The Best Parts Of An Angels’ Cup Subscription
 
 As soon as you download the app, you’ll realize it’s a pretty deep experience. You’re not getting just some random bags of coffee, but a *kit* for *enthusiasts* to use in a certain way. 
