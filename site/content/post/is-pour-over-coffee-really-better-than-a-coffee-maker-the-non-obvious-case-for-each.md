@@ -3,38 +3,56 @@ title: Is Pour-Over Coffee Really Better Than A Coffee Maker? (The Non-Obvious
   Case For Each)
 slug: pour-over-vs-coffee-machine
 date: 2020-12-07T00:03:07.580Z
-description: Pour-over brewing and coffee makers yield similar results, but
-  there are some important differences to consider. Find out which one's right
-  for you, below.
+description: >-
+  If you’re newer to specialty coffee (“the good stuff”), it probably didn’t
+  take long to realize that pour-over brewing is the method of choice.
+
+
+  Compared to filling up the old Mr. Coffee, pour-over brewing is cumbersome and finicky. All the gadgets–scales, grinders, and such–can get a little expensive, too. Yet all of us coffee nerds swear by it!
+
+
+  So, you’ve probably wondered, *why* is pour-over coffee actually better?
+
+
+  **Pour-over brewing can make better coffee that most automatic brewers, since it lets you control all the variables that affect brewing. However, it’s more labor-intensive and less conducive to large batches. Pour-overs may be less consistent, too. Neither pour-overs nor automatic brewers create pressure, so they are not even comparable to espresso machines.**
+
+
+  - - -
+
+
+  | **Category**             | **Winner**                                                        |
+
+  | ------------------------ | ----------------------------------------------------------------- |
+
+  | Volume                   | Coffee machine for large batches, but pour-over for small batches |
+
+  | Consistency              | Coffee machine                                                    |
+
+  | Cost-effectiveness       | Pour-over                                                         |
+
+  | Portability              | Pour-over (or better yet, AeroPress)                              |
+
+  | Enjoyment of the process | Depends on your preferences                                       |
+
+
+  - - -
+
+
+  For most coffee enthusiasts, it’s worthwhile to get hands-on control of every aspect of brewing.
+
+
+  On the flip side, more things in your control are more things that can go wrong. But if you enjoy the process, then it’s a fun hobby that yields great coffee.
+
+
+  So the real question isn’t “which is better?” but “which is better *for what*?” 
+
+
+  Or are they even all that different in the first place?
+
+
+  Time to find out!
 image: img/hario-v60-pour-over-coffee-1.jpg
 ---
-If you’re newer to specialty coffee (“the good stuff”), it probably didn’t take long to realize that pour-over brewing is the method of choice.
-
-Compared to filling up the old Mr. Coffee, pour-over brewing is cumbersome and finicky. All the gadgets–scales, grinders, and such–can get a little expensive, too. Yet all of us coffee nerds swear by it!
-
-So, you’ve probably wondered, *why* is pour-over coffee actually better?
-
-**Pour-over brewing can make better coffee that most automatic brewers, since it lets you control all the variables that affect brewing. However, it’s more labor-intensive and less conducive to large batches. Pour-overs may be less consistent, too. Neither pour-overs nor automatic brewers create pressure, so they are not even comparable to espresso machines.**
-***
-| **Category**             | **Winner** |
-|:--|:---|
-| Volume | Coffee machine for large batches, but pour-over for small batches |
-| Consistency | Coffee machine |
-| Cost-effectiveness       | Pour-over |
-| Portability              | Pour-over (or better yet, AeroPress) |
-| Enjoyment of the process | Depends on your preferences |
-
-***
-For most coffee enthusiasts, it’s worthwhile to get hands-on control of every aspect of brewing.
-
-On the flip side, more things in your control are more things that can go wrong. But if you enjoy the process, then it’s a fun hobby that yields great coffee.
-
-So the real question isn’t “which is better?” but “which is better *for what*?” 
-
-Or are they even all that different in the first place?
-
-Time to find out!
-
 ## What’s *really* the difference between pour-overs and coffee makers?
 
 Both methods involve a heap of coffee at a medium-ish grind, in a (usually) paper filter, that gets submerged in hot water. There are plenty of variations, but that’s really the core of either method.
