@@ -10,6 +10,7 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       <p>{{ .Description | markdownify }}</p>
         <aside>
+          <h3>Contents</h3>
           {{ .TableOfContents }}
         </aside>
       {{ .Content }}
