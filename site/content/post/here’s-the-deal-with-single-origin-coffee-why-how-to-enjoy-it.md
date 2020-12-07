@@ -2,26 +2,31 @@
 title: Here’s The Deal With Single-Origin Coffee (Why & How To Enjoy It)
 slug: why-single-origin-coffee
 date: 2020-12-06T23:47:04.412Z
-description: Single-origin coffee isn't magical, but it's an interesting world
-  and a lot of fun to explore. But what exactly is it, and who cares anyhow?
+description: >-
+  The specialty coffee world is all about single-origin beans.
+
+
+  Well, perhaps not *all*, but suffice to say that specific and far-flung origins are core to “third-wave” coffee culture.
+
+
+  Some folks even make full-on careers of finding and promoting interesting coffee origins to their connoisseur clientele. It’s like wine or cigars, just less pretentious. Well, usually…
+
+
+  If you’re not sure what all the fuss is about, or whether it’s worth plunking down the money, then this article will give a starting point.
+
+
+  **Like its name suggests, single-origin coffee beans all come from the same region, and often the same farm, co-op, or village within that region. These places all have very unique characteristics. Just like a pinot noir from Champagne versus the Loire (both in France) will taste different, *arabica* coffees from Java versus Sumatra (both in Indonesia) also taste different. Single origins aren’t inherently better, but many of the best roasters prefer to source from single origins.**
+
+
+  To be fair, it’s a pretty deep topic. We’re barely going to scratch the surface.
+
+
+  And if you’re keen to explore, then read through to the end. I’ll share how I prefer to get new ones on my doorstep.
+
+
+  But first, here is some background on single-origin coffee.
 image: img/coffee-cupping.jpg
 ---
-The specialty coffee world is all about single-origin beans.
-
-Well, perhaps not *all*, but suffice to say that specific and far-flung origins are core to “third-wave” coffee culture.
-
-Some folks even make full-on careers of finding and promoting interesting coffee origins to their connoisseur clientele. It’s like wine or cigars, just less pretentious. Well, usually…
-
-If you’re not sure what all the fuss is about, or whether it’s worth plunking down the money, then this article will give a starting point.
-
-**Like its name suggests, single-origin coffee beans all come from the same region, and often the same farm, co-op, or village within that region. These places all have very unique characteristics. Just like a pinot noir from Champagne versus the Loire (both in France) will taste different, *arabica* coffees from Java versus Sumatra (both in Indonesia) also taste different. Single origins aren’t inherently better, but many of the best roasters prefer to source from single origins.**
-
-To be fair, it’s a pretty deep topic. We’re barely going to scratch the surface.
-
-And if you’re keen to explore, then read through to the end. I’ll share how I prefer to get new ones on my doorstep.
-
-But first, here is some background on single-origin coffee.
-
 ## Coffee Has *Terroir*, Like Wine
 
 If you’re into wine at all, then you’re probably familiar with the idea of *terroir*.
@@ -100,7 +105,8 @@ First, there is incredible selection available. Most roasting enthusiasts (wheth
 
 Second, different origins have slightly different roasting characteristics. Limiting bean variety gets rid of one *huge* variable in the coffee’s taste. That makes it easier to figure out how your roasting process affects the coffee, so you can continually improve it.
 
----
+- - -
+
 Single-origin coffee may sound a little pretentious and exclusive, but it’s actually a fun and approachable thing for coffee fans to get into.
 
 Odds are you’ve been drinking single origins all along, at least occasionally. Now, you’ve got a basic idea of what that entails and why it’s such a big deal in the coffee scene. 
