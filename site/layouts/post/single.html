@@ -9,10 +9,10 @@
     <div class="cms mw7">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
         <aside>
           {{ .TableOfContents }}
         </aside>
+      {{ .Content }}
     </div>
   </div>
 {{ end }}
