@@ -2,26 +2,32 @@
 title: 7 Reasons The AeroPress Is Worth It (And Where To Find Great Recipes)
 slug: why-aeropress
 date: 2020-12-06T23:00:39.326Z
-description: What is it that makes the AeroPress so appealing? Find out why it's
-  an awesome brewer--and how to brew your best coffee yet.
+description: >-
+  If you enjoy making and drinking coffee, then you know how satisfying it is to
+  find a brewer that just…*works*.
+
+
+  You stop fiddling with finicky parts, you forget about split-second timing, and you practically know that the result is going to be great.
+
+
+  For many of us, that’s the AeroPress.
+
+
+  After all, it’s distinctive-looking, and coffee fans have plenty to say about it, but what actually makes the AeroPress so good?
+
+
+  **The AeroPress is a great coffee brewer because it’s uniquely versatile, portable, and easy to use. It can brew similar coffee to a pour-over or automatic coffee maker. It can also brew coffee like a French Press, but with much easier clean-up. It’s an especially good choice for travelers, too.**
+
+
+  Over time, I found a few more benefits that weren’t initially on my radar. 
+
+
+  Below are seven reasons you’ve got to give it a try.
+
+
+  I’ll also show you where to find clever and slightly crazy brewing recipes from *literal* champions.
 image: img/aeropress-brewing.jpg
 ---
-If you enjoy making and drinking coffee, then you know how satisfying it is to find a brewer that just…*works*.
-
-You stop fiddling with finicky parts, you forget about split-second timing, and you practically know that the result is going to be great.
-
-For many of us, that’s the AeroPress.
-
-After all, it’s distinctive-looking, and coffee fans have plenty to say about it, but what actually makes the AeroPress so good?
-
-**The AeroPress is a great coffee brewer because it’s uniquely versatile, portable, and easy to use. It can brew similar coffee to a pour-over or automatic coffee maker. It can also brew coffee like a French Press, but with much easier clean-up. It’s an especially good choice for travelers, too.**
-
-Over time, I found a few more benefits that weren’t initially on my radar. 
-
-Below are seven reasons you’ve got to give it a try.
-
-I’ll also show you where to find clever and slightly crazy brewing recipes from *literal* champions.
-
 ## It’s a Forgiving Design
 
 Pour-over designs vary, but they all have one thing in common.
@@ -102,7 +108,8 @@ Keep in mind that they’re optimized for exactly one coffee in the competition,
 
 Instead, take the inspiration to your own kitchen, and see what else you can come up with!
 
----
+- - -
+
 The AeroPress’s odd design has some uncommon benefits.
 
 Not only is it a fun and versatile way to make great coffee, but it’s a perfect traveling companion, and very accessible priced.
