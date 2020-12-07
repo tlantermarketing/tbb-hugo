@@ -2,21 +2,23 @@
 title: Why Roast Your Own Coffee (Fresh, Tasty…And A $10,000 Skill?)
 slug: why-roast-coffee-at-home
 date: 2020-12-07T00:24:27.809Z
-description: Coffee roasting might seem complex and intimidating, but it's more
-  accessible than you'd think. Find out why it's worth trying and how I
-  recommend getting started.
+description: >-
+  For the longest time, I figured coffee roasting was some bizarre, complicated
+  process that required thousands in equipment.
+
+
+  Something only serious experts could even think about.
+
+
+  But I discovered that’s not the case.
+
+
+  Not only is it accessible to anybody, but it’s even easier than you’d think.
+
+
+  Here’s why you ought to give it a try, too. You’ll also learn just how much money this fun, simple skill can be worth, and I’ll share the machine I use to make it effortless.
 image: img/roasted-coffee-beans.jpg
 ---
-For the longest time, I figured coffee roasting was some bizarre, complicated process that required thousands in equipment.
-
-Something only serious experts could even think about.
-
-But I discovered that’s not the case.
-
-Not only is it accessible to anybody, but it’s even easier than you’d think.
-
-Here’s why you ought to give it a try, too. You’ll also learn just how much money this fun, simple skill can be worth, and I’ll share the machine I use to make it effortless.
-
 ## Nothing is fresher
 
 In coffee, freshness equals flavor. Sure, there are more factors, but a lot of what you enjoy (or don’t) comes down to how long the roasted beans have sat around.
