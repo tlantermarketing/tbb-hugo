@@ -2,20 +2,23 @@
 title: 9 Ways To Brew Better Coffee Now
 slug: 9-ways-brew-better-coffee
 date: 2020-12-06T23:17:26.720Z
-description: Nothing's better than starting each day with delicious coffee. Here
-  are 9 great ways to make that happen.
+description: >-
+  If there’s anything better than the smell of that first cup of coffee in the
+  morning…mankind has yet to discover it. 
+
+
+  But if you’re new to brewing coffee at home, then sometimes the flavor doesn’t quite hold up to the aroma.
+
+
+  Watery cups, excessively bitter brews, or just totally inconsistent batches are the bane of the beginner barista.
+
+
+  Fortunately, I’ve been there, done that, and gone through the caffeine jitters so you don’t have to.
+
+
+  Here are the 9 surest ways to kick your coffee up a notch.
 image: img/cup-of-coffee.jpg
 ---
-If there’s anything better than the smell of that first cup of coffee in the morning…mankind has yet to discover it. 
-
-But if you’re new to brewing coffee at home, then sometimes the flavor doesn’t quite hold up to the aroma.
-
-Watery cups, excessively bitter brews, or just totally inconsistent batches are the bane of the beginner barista.
-
-Fortunately, I’ve been there, done that, and gone through the caffeine jitters so you don’t have to.
-
-Here are the 9 surest ways to kick your coffee up a notch.
-
 ## Fresh is best, by a country mile
 
 Green, unroasted coffee beans can sit for *at least* several months before they’re remotely stale.
