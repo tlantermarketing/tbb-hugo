@@ -2,34 +2,41 @@
 title: "Timemore Chestnut Grinder Review: The Best Hand Grinder For Your Money?"
 slug: timemore-chestnut-grinder-review
 date: 2020-12-07T00:26:32.388Z
-description: Premium hand grinders have exploded onto the market, but they don't
-  always live up to their prices. But after years of testing, I'm still
-  impressed by the Timemore Chestnut. Find out what makes it worthy and what
-  might give pause for thought.
+description: >-
+  If you have a good manual coffee grinder, you’ll never have trouble making a
+  decent cup.
+
+
+  As long as the beans are fresh, you can at least grab an AeroPress and brew something great just about any time, any place.
+
+
+  It sure beats being stuck with lukewarm, watery hotel coffee or with one of the coffee mega-chains. Nobody likes that.
+
+
+  There have been plenty of good, affordable electric grinders for years. But they’re obviously not portable. And even if travel isn’t an issue, the noise can be…intense. In some living situations, that’s a major problem.
+
+
+  And manual grinders are nothing new, either. However, the readily available ones have usually had ceramic burrs, loose adjustment, and imprecise construction. Those things lead to uneven grinding, which causes uneven extraction and therefore not-so-good coffee.
+
+
+  The high-end hand grinder market has been around for some time, but was quite obscure until a few years ago.
+
+
+  Suddenly, the North American market saw a wave of premium manual grinders that promised grind quality like the good electric ones, but in a quiet and portable package.
+
+
+  Timemore caught my attention as one of the more affordable models. Early reviews were few, but positive, so I took the plunge on their original Chestnut model. (It’s now called the Chestnut G1, but I believe it was the only “Chestnut” model at the time.)
+
+
+  That’s where we’re looking at today.
+
+
+  Below are my impressions after nearly two years of daily use.
+
+
+  **The Timemore Chestnut is an excellent value that holds its own with much more expensive hand grinders. Grind quality is outstanding, and portability is very good. However, it has a few frustrating design quirks, and it’s not the right choice if you mostly brew espresso.**
 image: img/timemore-chestnut-g1-hand-grinder-1.jpg
 ---
-If you have a good manual coffee grinder, you’ll never have trouble making a decent cup.
-
-As long as the beans are fresh, you can at least grab an AeroPress and brew something great just about any time, any place.
-
-It sure beats being stuck with lukewarm, watery hotel coffee or with one of the coffee mega-chains. Nobody likes that.
-
-There have been plenty of good, affordable electric grinders for years. But they’re obviously not portable. And even if travel isn’t an issue, the noise can be…intense. In some living situations, that’s a major problem.
-
-And manual grinders are nothing new, either. However, the readily available ones have usually had ceramic burrs, loose adjustment, and imprecise construction. Those things lead to uneven grinding, which causes uneven extraction and therefore not-so-good coffee.
-
-The high-end hand grinder market has been around for some time, but was quite obscure until a few years ago.
-
-Suddenly, the North American market saw a wave of premium manual grinders that promised grind quality like the good electric ones, but in a quiet and portable package.
-
-Timemore caught my attention as one of the more affordable models. Early reviews were few, but positive, so I took the plunge on their original Chestnut model. (It’s now called the Chestnut G1, but I believe it was the only “Chestnut” model at the time.)
-
-That’s where we’re looking at today.
-
-Below are my impressions after nearly two years of daily use.
-
-**The Timemore Chestnut is an excellent value that holds its own with much more expensive hand grinders. Grind quality is outstanding, and portability is very good. However, it has a few frustrating design quirks, and it’s not the right choice if you mostly brew espresso.**
-
 ## What The Timemore Chestnut Grinder Does Best
 
 ### Impressively even grind
