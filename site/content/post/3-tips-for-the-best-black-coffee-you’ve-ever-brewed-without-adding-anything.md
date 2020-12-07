@@ -2,26 +2,32 @@
 title: 3 Tips For The Best Black Coffee You’ve Ever Brewed (Without Adding Anything)
 slug: how-brew-better-black-coffee
 date: 2020-11-16T03:04:48.057Z
-description: Nobody likes dull or harsh coffee. Here are 3 simple tips for a
-  great cup, every time--no cream or sugar required!
+description: >-
+  It’s super frustrating to get an awesome coffee brewing set-up…buy a new bag
+  of beans…whip up a cup…and get something dull or harsh in your cup.
+
+
+  Yeah, could add cream and sugar until it barely resembles coffee. At least that’s palatable?
+
+
+  But assuming you like the taste of coffee in the first place, all you *actually* need for a good taste is the right coffee, the right equipment, and the right process.
+
+
+  **To make black coffee taste its best, you need to do three things. First, buy fresh coffee, preferably no more than a few days after roasting. Second, make sure you’re using a high-quality grinder. Third, measure your coffee and water precisely to brew to the right strength.**
+
+
+  Some of those are more obvious than others, so I’ll elaborate later.
+
+
+  And if you’re in a hurry to figure out where to get the best-tasting coffee beans, skip ahead to the end where I share my personal favorite source.
+
+
+  But first, let’s detour into what actually happens when you roast and brew coffee. The brewing tips that follow will make more sense with that background info.
+
+
+  Ready?
 image: img/pouring-chemex-coffee.jpg
 ---
-It’s super frustrating to get an awesome coffee brewing set-up…buy a new bag of beans…whip up a cup…and get something dull or harsh in your cup.
-
-Yeah, could add cream and sugar until it barely resembles coffee. At least that’s palatable?
-
-But assuming you like the taste of coffee in the first place, all you *actually* need for a good taste is the right coffee, the right equipment, and the right process.
-
-**To make black coffee taste its best, you need to do three things. First, buy fresh coffee, preferably no more than a few days after roasting. Second, make sure you’re using a high-quality grinder. Third, measure your coffee and water precisely to brew to the right strength.**
-
-Some of those are more obvious than others, so I’ll elaborate later.
-
-And if you’re in a hurry to figure out where to get the best-tasting coffee beans, skip ahead to the end where I share my personal favorite source.
-
-But first, let’s detour into what actually happens when you roast and brew coffee. The brewing tips that follow will make more sense with that background info.
-
-Ready?
-
 ## How Roasting & Brewing Affect Coffee’s Taste (Super-Simple Chemistry)
 
 This won’t be nearly as painful as the heading suggests, mostly because I hardly know anything about chemistry.
