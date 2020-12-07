@@ -2,23 +2,26 @@
 title: Don’t Miss These 5 Unusual Coffee Origins (If You Can Find Them)
 slug: best-unusual-coffee-origins
 date: 2020-12-06T23:37:28.121Z
-description: Coffee, like wine, has an incredible variety of flavors and aromas.
-  And also like wine, its origins make a huge difference. Find out more about
-  some of the most unusual and interesting coffee origins around.
+description: >-
+  You can’t always pack up and leave on a trip across the world, but
+  you *can* take a grand tour through coffee.
+
+
+  In fact, discovering unique origins is one of the things that hooked me on specialty coffee in the first place. 
+
+
+  Just like with wine, the flavor of coffee depends on the environment it grows in. Everything from elevation to soil quality makes a marked difference. 
+
+
+  The variety of flavors and aromas is surprising: blueberries, chocolate, herbs, nuts, and much more will stand out as you taste your way around the world.
+
+
+  While it’s easy to find coffee from large producers like Brazil and Ethiopia and Indonesia, many more obscure origins are also excellent.
+
+
+  If you’re a coffee fan, then here are five you’ve *got* to try…if you can find them.
 image: img/world-coffee-origins.jpg
 ---
-You can’t always pack up and leave on a trip across the world, but you *can* take a grand tour through coffee.
-
-In fact, discovering unique origins is one of the things that hooked me on specialty coffee in the first place. 
-
-Just like with wine, the flavor of coffee depends on the environment it grows in. Everything from elevation to soil quality makes a marked difference. 
-
-The variety of flavors and aromas is surprising: blueberries, chocolate, herbs, nuts, and much more will stand out as you taste your way around the world.
-
-While it’s easy to find coffee from large producers like Brazil and Ethiopia and Indonesia, many more obscure origins are also excellent.
-
-If you’re a coffee fan, then here are five you’ve *got* to try…if you can find them. 
-
 ### St. Helena
 
 “Where in the world is St. Helena?” That’s most people’s first question, and it’s a reasonable one.
