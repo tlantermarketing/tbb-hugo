@@ -1,29 +1,33 @@
 ---
 title: 4 Clever AeroPress Accessories You’ll Love
-date: 2020-11-16T02:44:02.644Z
 slug: best-aeropress-accessories
-description: >
-  The AeroPress is terrific on its own, and the right accessories make it even
-  more versatile. Here are some must-try accessories for any AeroPress
-  enthusiast.
+date: 2020-11-16T02:44:02.644Z
+description: >-
+  The AeroPress is an easy way to make great coffee anywhere. There are also a
+  million different ways to use it.
+
+
+  With a little practice and exploration, it’s like at least two or three coffee makers in one. 
+
+
+  Light-bodied brews like you’d get from a pour-over with a coarse grind? Check.
+
+
+  Strong, almost syrupy brews like a *really long* espresso shot? Also check.
+
+
+  Everything in the middle? Most definitely.
+
+
+  But it’s actually possible to get even more variety out of this beautifully simple device.
+
+
+  AeroPress fans worldwide are continually coming up with clever accessories. Some are convenient, some enable different brewing styles, and some are just plain cool.
+
+
+  Out of all these, here are my favorites that every AeroPress enthusiast will appreciate.
 image: img/aeropress-coffee-brewing-1.jpg
 ---
-The AeroPress is an easy way to make great coffee anywhere. There are also a million different ways to use it.
-
-With a little practice and exploration, it’s like at least two or three coffee makers in one. 
-
-Light-bodied brews like you’d get from a pour-over with a coarse grind? Check.
-
-Strong, almost syrupy brews like a *really long* espresso shot? Also check.
-
-Everything in the middle? Most definitely.
-
-But it’s actually possible to get even more variety out of this beautifully simple device.
-
-AeroPress fans worldwide are continually coming up with clever accessories. Some are convenient, some enable different brewing styles, and some are just plain cool.
-
-Out of all these, here are my favorites that every AeroPress enthusiast will appreciate.
-
 ## Fellow Prismo For Higher-Pressure Extraction 
 
 Fellow made a name for their high-design approach to coffee. Their [Stagg kettle](https://thebolderbrew.com/recommends/fellow-stagg-ekg) is almost iconic in the specialty coffee scene, and it works as great as it looks.
