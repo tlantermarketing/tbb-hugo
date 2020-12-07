@@ -2,26 +2,32 @@
 title: Is AeroPress Coffee Better Than Other Brewing Methods? (What I’ve Learned)
 slug: aeropress-vs-other-coffee-brewers-comparison
 date: 2020-12-07T00:09:14.083Z
-description: The AeroPress has an almost cult-like following, but does it
-  deserve the hype? The answer depends on just what you plan on using it for.
+description: >-
+  If you’re wondering whether to take the plunge (pun totally intended) on an
+  AeroPress, then this is for you.
+
+
+  We’ll look at how it compares to 5 common brewing methods in terms of cost, ease of use, consistency of results, and flavor potential.
+
+
+  **The AeroPress is similar in price to most manual brewing methods, but much cheaper than machines. It’s easier to use and clear than most brewing methods, too. The AeroPress brews as consistently as anything, with very smooth and complex flavor if you know what you’re doing.**
+
+
+  Here’s a quick summary, but read on for some details that might not be as obvious.
+
+
+  ![Comparison of AeroPress to other popular coffee makers and brewing methods](img/aeropress-comparison-coffee-makers.png)
+
+
+  There are plenty of other relevant points to compare. Things like portability and versatility are a big deal for some folks, but not for others, so we’ll set them aside for now.
+
+
+  If you’re already sure an AeroPress is for you, then go [here](/recommends/aeropress) to pick one up. Otherwise, read on to see if it’s what you’re looking for.
+
+
+  By the way, there’s one accessory that lets any brewing method work its best. Hang on tight and I’ll cover that at the end.
 image: img/coffee-brewing-methods.jpg
 ---
-If you’re wondering whether to take the plunge (pun totally intended) on an AeroPress, then this is for you.
-
-We’ll look at how it compares to 5 common brewing methods in terms of cost, ease of use, consistency of results, and flavor potential.
-
-**The AeroPress is similar in price to most manual brewing methods, but much cheaper than machines. It’s easier to use and clear than most brewing methods, too. The AeroPress brews as consistently as anything, with very smooth and complex flavor if you know what you’re doing.**
-
-Here’s a quick summary, but read on for some details that might not be as obvious.
-
-![Comparison of AeroPress to other popular coffee makers and brewing methods](img/aeropress-comparison-coffee-makers.png)
-
-There are plenty of other relevant points to compare. Things like portability and versatility are a big deal for some folks, but not for others, so we’ll set them aside for now.
-
-If you’re already sure an AeroPress is for you, then go [here](/recommends/aeropress) to pick one up. Otherwise, read on to see if it’s what you’re looking for.
-
-By the way, there’s one accessory that lets any brewing method work its best. Hang on tight and I’ll cover that at the end.
-
 ## AeroPress Vs. Coffee Machine
 
 ### Cost
