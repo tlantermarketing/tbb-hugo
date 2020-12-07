@@ -2,17 +2,17 @@
 title: These 3 AeroPress Tips Will Take Your Coffee to the Next Level
 slug: better-aeropress-coffee-tips
 date: 2020-12-07T00:21:37.110Z
-description: How do you take AeroPress coffee from good to great? Here are a few
-  fun ways to shake up your technique--and get unexpectedly delicious cups in
-  the process.
+description: >-
+  The AeroPress is like nothing else on the market. It’s part immersion brewer,
+  part French press, and–kinda sorta almost–part espresso-maker.
+
+
+  It’s also the only device that’s so appealing to fellow coffee geeks *and* totally casual users at the same time.
+
+
+  The AeroPress’s quirky design opens up all sorts of brewing possibilities, some of which are less obvious than others. Below, I’ll cover three of my favorites that will make you next cup better–or at least more interesting!
 image: img/cup-of-coffee-1.jpg
 ---
-The AeroPress is like nothing else on the market. It’s part immersion brewer, part French press, and–kinda sorta almost–part espresso-maker.
-
-It’s also the only device that’s so appealing to fellow coffee geeks *and* totally casual users at the same time.
-
-The AeroPress’s quirky design opens up all sorts of brewing possibilities, some of which are less obvious than others. Below, I’ll cover three of my favorites that will make you next cup better–or at least more interesting!
-
 ## The Inverted AeroPress Method for More Consistent Brews
 
 The AeroPress “naturally” sits in your mug with the filter end down.
@@ -102,6 +102,7 @@ Those are just two examples of how inventive you can get, far beyond what drip b
 James Hoffman, coffee guru and YouTuber *extraordinaire*, even devised his AeroPress Dice to turn all this into a bit of a game.
 
 {{< youtube id="SHdXC_88_2g" >}}
+
 ## Change It Up with a Metal AeroPress Filter
 
 Reducing waste is always a win, and metal filters certainly check that box. 
