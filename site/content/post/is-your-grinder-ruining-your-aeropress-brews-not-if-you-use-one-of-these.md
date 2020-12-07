@@ -2,25 +2,28 @@
 title: Is Your Grinder Ruining Your AeroPress Brews? (Not If You Use One Of These)
 slug: best-grinders-for-aeropress
 date: 2020-12-07T00:16:43.863Z
-description: Coffee grinders make or break your cup--even with simple brewers
-  like the AeroPress. Find out why that is and which affordable grinders will
-  make your AeroPress brews taste their best.
+description: >-
+  When you make pour-over coffee, you’re at the mercy of gravity. 
+
+
+  If grind size is a little off, then you’ll probably get a wasted cup of over- or under-extracted coffee. There’s just not much you can do about it.
+
+
+  With the AeroPress, that’s not the case. It’s not just convenient, but an incredibly *forgiving* design.
+
+
+  Its plunger gives you total control over how long the coffee brews. Press it earlier to end the brew, later to extend it.
+
+
+  Simple enough. The coffee will extract for exactly as long as you choose, period.
+
+
+  But what it *can’t* overcome is an inconsistent grind. 
+
+
+  Let’s look at what that matters and how to fix it. I’ll also share my top two manual grinder picks for AeroPress users.
 image: img/coffee-grinder-scaled.jpg
 ---
-When you make pour-over coffee, you’re at the mercy of gravity. 
-
-If grind size is a little off, then you’ll probably get a wasted cup of over- or under-extracted coffee. There’s just not much you can do about it.
-
-With the AeroPress, that’s not the case. It’s not just convenient, but an incredibly *forgiving* design.
-
-Its plunger gives you total control over how long the coffee brews. Press it earlier to end the brew, later to extend it.
-
-Simple enough. The coffee will extract for exactly as long as you choose, period.
-
-But what it *can’t* overcome is an inconsistent grind. 
-
-Let’s look at what that matters and how to fix it. I’ll also share my top two manual grinder picks for AeroPress users.
-
 ## Why A Consistent Grind Matters
 
 All else being equal, the size of a coffee particle determines how quickly it extracts and what the brew tastes like.
