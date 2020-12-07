@@ -2,18 +2,20 @@
 title: "Fresh Roast SR800 Review: The Best Home Coffee Roaster For Most Of Us"
 slug: fresh-roast-sr800-review
 date: 2020-12-06T23:40:50.547Z
-description: Home roasters abound, but some are far better than others. Read on
-  to learn what makes the Fresh Roast SR800 the best choice for most hobbyists.
+description: >-
+  Roasting coffee at home is the best way to keep fresh, delicious beans on
+  hand.
+
+
+  It’s cost-effective, and perhaps better yet, it’s a lot of fun.
+
+
+  **After using different roasters over several years, I’ve found that the Fresh Roast SR800 is the best home coffee roaster for most of us. It isn’t cheap, but it offers the best combination of control, batch size, and ease of use for small-scale home use.**
+
+
+  Here, we’ll cover what’s great and what’s not so great about the SR800. You’ll also get some tips I wish I’d known from day one, so stay tuned.
 image: img/IMG_20200910_095142238-rotated.jpg
 ---
-Roasting coffee at home is the best way to keep fresh, delicious beans on hand.
-
-It’s cost-effective, and perhaps better yet, it’s a lot of fun.
-
-**After using different roasters over several years, I’ve found that the Fresh Roast SR800 is the best home coffee roaster for most of us. It isn’t cheap, but it offers the best combination of control, batch size, and ease of use for small-scale home use.**
-
-Here, we’ll cover what’s great and what’s not so great about the SR800. You’ll also get some tips I wish I’d known from day one, so stay tuned.
-
 ## Why I Chose The Fresh Roast SR800
 
 It’s not a trivial purchase, so here’s a quick note about how this specific roaster ended up in my kitchen.
